@@ -1,3 +1,7 @@
+* {
+  outline: red dotted 1px;
+}
+
 body {
   background-color: rgb(193, 179, 245);
 }
